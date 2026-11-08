@@ -1,0 +1,10 @@
+cd /d "C:\Users\JAIR HERNANDEZ\Desktop\ESTUDIO JAIR\IV EMESTRE\PROGRAMACIÓN II\Examen 3\IUE_LP2_605_MapaRutasTuristicas\src"
+javac -cp "..\..\*" App.java controladores\*.java modelos\*.java servicios\*.java vistas\*.java
+java -cp ".;..\..\*" App
+
+
+6.472781977209507, -73.25863902878794
+
+------------------------------------- compañero
+
+

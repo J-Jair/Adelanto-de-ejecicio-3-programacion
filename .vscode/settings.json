@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "commons-logging-1.2.jar",
+        "jackson-annotations-2.18.1.jar",
+        "jackson-core-2.18.3.jar",
+        "jackson-databind-2.18.3.jar",
+        "jxmapviewer2-2.6.jar",
+        "slf4j-api-1.7.7.jar"
+    ]
+}
